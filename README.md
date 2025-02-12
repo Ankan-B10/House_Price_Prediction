@@ -1,5 +1,15 @@
-# 🏠 House Price Prediction  
+# 🏠 House Price Prediction - Complete ML Project 
 Predict the price of a house based on various parameters like location, BHK, bathrooms, and square footage.
+---
+### 🏆 Author  
+👤 **Subham Das (Team Leader & Developer)**
+👤 **Ankan Bera (Lead Developer)**
+👤 **Abhishek Kumar (Developer)**
+👤 **Subhadeep Kar (Co-Developer)**
+👤 **Srinjoy Chakraborti (Co-Developer)**
+👤 **Aditya Kumar (Co-Developer)**
+
+---
 # 👀 See Jupiter Library code to see the trained model of dataset
 
 ---
@@ -45,8 +55,3 @@ Then, open `http://127.0.0.1:5000/` in your browser.
 
 ## 🤝 Contributing  
 Feel free to open issues and submit pull requests!  
-
----
-
-### 🏆 Author  
-👤 **Your Name** 
