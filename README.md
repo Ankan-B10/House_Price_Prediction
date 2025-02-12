@@ -2,12 +2,12 @@
 Predict the price of a house based on various parameters like location, BHK, bathrooms, and square footage.
 ---
 ### 🏆 Author  
-👤 **Subham Das (Team Leader & Developer)**
-👤 **Ankan Bera (Lead Developer)**
-👤 **Abhishek Kumar (Developer)**
-👤 **Subhadeep Kar (Co-Developer)**
-👤 **Srinjoy Chakraborti (Co-Developer)**
-👤 **Aditya Kumar (Co-Developer)**
+- 👤 **Subham Das (Team Leader & Developer)**
+- 👤 **Ankan Bera (Lead Developer)**
+- 👤 **Abhishek Kumar (Developer)**
+- 👤 **Subhadeep Kar (Co-Developer)**
+- 👤 **Srinjoy Chakraborti (Co-Developer)**
+- 👤 **Aditya Kumar (Co-Developer)**
 
 ---
 # 👀 See Jupiter Library code to see the trained model of dataset
