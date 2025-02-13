@@ -34,7 +34,7 @@ def predict():
     except ValueError:
         return "Error: Please enter valid numeric values."
 
-    # Prepare input for model
+    # Prepare input for model 
     input_data = pd.DataFrame([[location, sqft, bath, bhk]], columns=['location', 'total_sqft', 'bath', 'bhk'])
 
     try:
